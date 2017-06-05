@@ -1,11 +1,20 @@
 body {
   margin: 0 auto;
   width: 70%;
+  font-size: 20px;
 }
 article {
-
+  padding: 10px 10px;
 }
 
 footer {
-  margin-top: 80px; 
+  margin-top: 80px;
+}
+
+#picture-container {
+  border: 1px solid black;
+}
+
+.para {
+  text-indent: 20px;
 }
